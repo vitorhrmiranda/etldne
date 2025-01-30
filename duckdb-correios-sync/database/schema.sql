@@ -1,0 +1,1 @@
+CREATE TABLE ZIPCODES(uf VARCHAR, cidade VARCHAR, bairro VARCHAR, logradouro VARCHAR, cep VARCHAR, complemento VARCHAR, nome VARCHAR, kind VARCHAR);
